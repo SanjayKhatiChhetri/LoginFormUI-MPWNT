@@ -13,3 +13,10 @@ Text
 - Add icons for textfields. Check out how to add trailing icon on [Trailing icon example](https://semicolonspace.com/jetpack-compose-textfield/), example uses email 
 and lock icons
 - Modify password field to display “dots” instead of actual characters using VisualTransformation. Instructions can be found on [@here](https://stackoverflow.com/questions/65304229/toggle-password-field-jetpackcompose.)Test out, that you can run app on emulator or real device and UI is visible as expected.
+
+### Overview of App !!What it looks like!!
+> [!CAUTION]
+> delete [App ScreenShot](./LoginFormSS.png) before you run the project locally.
+<picture>
+<img alt="Shows an app that illustrate the Basic LoginForm UI implementation" src="https://github.com/SanjayKhatiChhetri/LoginFormUI-MPWNT/blob/main/LoginFormSS.png">
+</picture>
